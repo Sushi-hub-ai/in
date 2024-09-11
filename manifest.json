@@ -1,7 +1,7 @@
 {
-  "name": "Your App Name",
-  "short_name": "App",
-  "start_url": "https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec",
+  "name": "My Web App",
+  "short_name": "WebApp",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6b6b"

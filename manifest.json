@@ -1,7 +1,7 @@
 {
   "name": "My Web App",
   "short_name": "WebApp",
-  "start_url": "",
+  "start_url": "https://script.google.com/home/projects/1Sq0UG9oiUVfqJQ5yP0LZnZXMGRzPdNkJxa8IBpLi3ywC-3lMGJwoRLGC/edit",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6b6b"

@@ -1,10 +1,8 @@
 {
-  "name": "Techin",
+  "name": "Your App Name",
   "short_name": "App",
-  "description": "Your app description.",
   "start_url": "https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff6b6b",
-
+  "theme_color": "#ff6b6b"
 }

@@ -1,0 +1,21 @@
+{
+  "name": "Your App Name",
+  "short_name": "App",
+  "description": "Your app description.",
+  "start_url": "https://script.google.com/macros/s/AKfycbxIfaVbcE3P9zktsSwLvGfFjJFN-pGI2RtaKBOAVNkOLuFwNsJIhUMDixsNtrEsHwQDyQ/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b6b",
+  "icons": [
+    {
+      "src": "https://Sushi-hub-ai.github.io/in/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://Sushi-hub-ai.github.io/in/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
